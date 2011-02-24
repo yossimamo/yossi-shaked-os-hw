@@ -19,7 +19,7 @@ void testAndPrint(unsigned int numOfIterations)
 int main()
 {
 	// test empty func:
-	/*printf("Num of iterations: 1000\n");
+	printf("Num of iterations: 1000\n");
 	testAndPrint(1000);
 	printf("\n");
 
@@ -37,7 +37,7 @@ int main()
 
 	printf("Num of iterations: 200000\n");
 	testAndPrint(200000);
-	printf("\n");*/
+	printf("\n");
 
 	printf("Num of iterations: 1000000\n");
 	testAndPrint(1000000);
